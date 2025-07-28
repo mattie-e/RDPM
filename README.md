@@ -10,6 +10,9 @@ RDPM combines CT imaging data with clinical parameters to predict the likelihood
 2. **CT with Attention Model**: Enhanced CT model using mask-guided attention mechanisms
 3. **RDPM (Hybrid Model)**: Multimodal model combining CT imaging features with clinical parameters
 
+![RDPM Model Architecture](/src/RDPM.png)
+*Figure 1: RDPM model architecture showing the hybrid approach combining features from CT imaging with clinical data.*
+
 ## Installation
 
 ```bash
