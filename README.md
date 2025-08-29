@@ -237,15 +237,15 @@ The RDPM models and associated datasets are available only for **non-commercial 
    - Allow time for legal and ethical review processes
 
 ### What Can Be Shared:
-- ✅ **Source code** (models, training utilities, demo scripts)
-- ✅ **Documentation** and technical specifications
-- ✅ **Model architectures** and implementation details
+- **Source code** (models, training utilities, demo scripts)
+- **Documentation** and technical specifications
+- **Model architectures** and implementation details
 
 ### What Requires Formal Agreement:
-- ❌ **Trained model weights/checkpoints**
-- ❌ **Medical imaging datasets**
-- ❌ **Clinical metadata**
-- ❌ **Patient data** (even if de-identified)
+- **Trained model weights/checkpoints**
+- **Medical imaging datasets**
+- **Clinical metadata**
+- **Patient data** (even if de-identified)
 
 ### Contact Information:
 Please contact the corresponding authors through official academic channels to discuss potential collaboration and data access.
