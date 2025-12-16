@@ -105,7 +105,7 @@ class MultiModalCTClassifier(nn.Module):
                  num_classes=2,
                  backbone='efficientnet-b0',
                  numerical_features_dim=3,
-                 fusion_method='multihead_cross_attention',
+                 fusion_method='_cross_attention',
                  dropout_rate=0.3,
                  use_mask_attention=True):
         super().__init__()
